@@ -47,9 +47,9 @@ function App() {
     <div className="container">
       <div className="header">
         {/* Replace 'logo.png' with the path to your company logo */}
-        <img src="instrumus.png" alt="Company Logo" className="logo" />
+        <img src="instrumus.png" alt="Instrumus" className="logo" />
         <div className="company-info">
-          <h1>Company Name</h1>
+          <h1>Instrumus</h1>
           <p>Date and Time: {currentDateTime.toLocaleString()}</p>
         </div>
       </div>
